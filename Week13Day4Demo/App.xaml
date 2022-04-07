@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:sys="clr-namespace:System;assembly=mscorlib"
              xmlns:local="clr-namespace:Week13Day4Demo"             
-             StartupUri="WindowAnimation.xaml"
+             StartupUri="WindowCommand.xaml"
              DispatcherUnhandledException="Application_DispatcherUnhandledException">
     <Application.Resources>
         <sys:String x:Key="strWin">Hello World1!</sys:String>
